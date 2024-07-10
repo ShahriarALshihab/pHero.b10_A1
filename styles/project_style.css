@@ -234,3 +234,36 @@ flex-direction: column;
 gap: 38px; 
 justify-content: center;
 }
+
+/* ---main section END---- */
+
+
+
+/* ------sub-main section START----- */
+
+.space{
+    width: 1140px;
+    height: 775px;
+}
+
+.yt-video{
+    height: 614px;
+    padding: 32px; 
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    width: 1140px;
+    margin-top: 50px;
+}
+
+.video-frame{
+    width: 1070;
+    height: 550px;
+    border-radius: 16px;
+    
+}
+
+/* -----------youtube video part done----- */
+
+
+
